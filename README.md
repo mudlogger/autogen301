@@ -16,3 +16,5 @@ Lojik v1.2.0
 Sloop v1.0.2
 
 Strike v1.3.0
+
+Erosive https://forum.orthogonaldevices.com/t/erosive-0-1-add-grunge-grit-and-distortion-to-your-sound/5418?u=mudlogger
