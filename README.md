@@ -1,5 +1,5 @@
 # autogen301
-This Repo contains packages for the Orthogonal Devices ER301 Sound Computer.
+This Repo contains packages i made for the Orthogonal Devices ER301 Sound Computer.
 
 Minimum ER301 firmware required is v0.6.15 : https://github.com/odevices/er-301/releases
 
