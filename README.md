@@ -3,6 +3,9 @@ This Repo contains packages i made for the Orthogonal Devices ER301 Sound Comput
 
 Minimum ER301 firmware required is v0.6.15 : https://github.com/odevices/er-301/releases
 
+Please note : v0.6.15 has the sample loading fix. 
+v0.6.14 will not load packages containing samples
+
 Additional packages required from https://er301-hub.netlify.app
 
 Accents v0.6.14
