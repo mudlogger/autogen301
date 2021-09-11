@@ -25,8 +25,9 @@ Erosive https://forum.orthogonaldevices.com/t/erosive-0-1-add-grunge-grit-and-di
 Installation:
 
 1. Download the autogen301.pkg file
-2. Copy to er301/package folder on SD card.
+2. Copy to ER301/packages folder on SD card.
 3. Flick the left switch to Admin.
 4. Select Package Manager.
-5. Highlight autogen301.pkg in the top screen.
-6. Install.
+5. You should see autogen301.pkg as an available choice along with the core and teletype mods, which will most likely already be installed
+6. Highlight autogen301.pkg in the top screen.
+7. Install.
